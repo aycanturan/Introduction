@@ -1,0 +1,22 @@
+/* add your CSS here */
+ul
+{
+list-style-type: none;
+padding-left: 0;
+}
+
+.outer_box{
+    width: 300px;
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 20px;
+    float:left;
+    }
+
+.inner_box{
+    width: 268px;
+    border: 1px solid gray;
+    padding: 15px;
+    margin: 0px;
+    float:left;
+    }
